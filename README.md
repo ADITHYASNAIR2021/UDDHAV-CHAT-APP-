@@ -16,22 +16,22 @@ we have included classes via Microsoft Teams.
 
 we have included inline searching facility via Google.
 
-#Languages Used 
+# Languages Used 
 
 HTML, CSS, Socket.io, Nodemon, Express and Javascript.
 
-#Future plans for UDDHAV
+# Future plans for UDDHAV
 
 Improving the features. Implementing new features .
 
-#Authors
+# Authors
 
 @ADITHYASNAIR2021
 @karthiknair176
 @Arjun2099
 @Karan-Rajesh-Nair
 
-#Installation
+# Installation
 
 Clone the repo to a local file in your device. we recommend to use Visual Studio codes to open the project.
 
@@ -50,7 +50,7 @@ Go to your web page and type
 
 http://localhost:3000/
 
-#Contact 
+# Contact 
 
 If any doubt or questions please be free to contact us
 
