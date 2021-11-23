@@ -16,33 +16,42 @@ we have included classes via Microsoft Teams.
 
 we have included inline searching facility via Google.
 
-Languages Used
+##Languages Used 
+
 HTML, CSS, Socket.io, Nodemon, Express and Javascript.
 
-Future plans for UDDHAV
+##Future plans for UDDHAV
+
 Improving the features. Implementing new features .
 
-Authors
+##Authors
+
 @ADITHYASNAIR2021
 @karthiknair176
 @Arjun2099
 @Karan-Rajesh-Nair
-Installation
+
+##Installation
+
 Clone the repo to a local file in your device. we recommend to use Visual Studio codes to open the project.
 
 Open the project and move to 'main.js' flie, open a new terminal in Visual studio and type
 
 npm i
+
 After running it in the terminal type any one of the command
 
 npm run dev 
 npm start
+
 This will allow you to view or run the application in a local server using your web browser.
 
 Go to your web page and type
 
 http://localhost:3000/
-Contact
+
+##Contact 
+
 If any doubt or questions please be free to contact us
 
 Adithya S Nair - adithyasnair2021@gmail.com
