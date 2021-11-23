@@ -27,8 +27,11 @@ Improving the features. Implementing new features .
 # Authors
 
 @ADITHYASNAIR2021
+
 @karthiknair176
+
 @Arjun2099
+
 @Karan-Rajesh-Nair
 
 # Installation
